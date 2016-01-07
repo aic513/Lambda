@@ -1,0 +1,34 @@
+.yellow-line, .white-line, .sprite-icon, .footer-line, .index-cook{
+	background: url(sprites.png) no-repeat;
+}
+
+.yellow-line{
+	background-position: 0 -9px ;
+	width: 247px;
+	height: 24px;
+}
+
+.white-line{
+	background-position: 0 -47px ;
+	width: 247px;
+	height: 24px;
+}
+
+.sprite-icon{
+	background-position: 0 -271px ;
+	width: 505px;
+	height: 17px;
+}
+
+.footer-line{
+	background-position: 0 -189px ;
+	width: 199px;
+	height: 19px;
+}
+
+.index-cook{
+	background-position: 0 -132px ;
+	width: 232px;
+	height: 43px;
+}
+
